@@ -1,0 +1,11 @@
+[
+   {"id": 1, "linea": "EXCLUSIVE", "nombre": "NICE", "precio": 100000, "img":"./imagenes/nice-920x920.jpg"},
+   {"id": 2, "linea": "EXCLUSIVE", "nombre": "SWEET", "precio": 120000, "img":"./imagenes/sweett-350x245.jpg"},
+   {"id": 3, "linea": "EXCLUSIVE", "nombre": "ADAPT", "precio":130000, "img":"./imagenes/adapt.jpg"},
+   {"id": 4, "linea": "EXCLUSIVE", "nombre": "GENIUS", "precio":135000,"img":"./imagenes/genius-maxxpsd-scaled.jpg"},
+   {"id": 5, "linea": "RESORTES", "nombre": "SOÑADO", "precio":90000, "img":"./imagenes/sonado-920x484.jpg"},
+   {"id": 6, "linea": "EXCLUSIVE", "nombre": "BODY", "precio":80000, "img":"./imagenes/body-920x467.jpg"},
+   {"id": 7, "linea": "RESORTES", "nombre": "EURO BODY", "precio": 70000,"img":"./imagenes/euro-body-920x503.jpg"},
+   {"id": 8, "linea": "RESORTES", "nombre": "PRINCE", "precio": 60000,"img":"./imagenes/prince-1.jpg"},
+   {"id": 9, "linea": "ESPUMA", "nombre": "OASIS", "precio": 40000, "img":"./imagenes/OASIS-.jpg"}
+]
